@@ -1,6 +1,2 @@
-Thanks for downloading this template!
+This a artifact that i have created for developing a new single page responsive website and hosted using docker
 
-Template Name: eStartup
-Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
